@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    display: flex;
+   justify-content: center;
+   margin-top: 24px;
+}
+table{
+    width: 581px;
+    margin: auto;
+      margin-top: auto;
+    margin-top: 12px; 
+    height: 576px;
+    margin-bottom: 50px;
+}
+
+thead{
+    
+        background-color: #575151;
+        color: white;
+    
+}
+
+.mark{
+    text-align: start;
+    margin: 0 0 0 4px;
+}
+.sales{
+    text-align: start;
+    margin: 0 0 0 4px;
+}
+.product{
+    text-align: start;
+    margin: 0 0 0 4px;
+}
+.block1{
+    
+        background: #99d7f0;
+    
+}
+.block2{
+    
+        background: #7af0f0;
+    
+}
+.block3{
+    background: #f081cff0;
+}
